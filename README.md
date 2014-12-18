@@ -17,4 +17,10 @@ git commit
 
 git log
 
+// Criando Repsitório Remote
 
+git remote add orgin  https://github.com/jadielpt/Schoolofnet.com
+
+// Enviando para o GitHub
+
+git push origin master
